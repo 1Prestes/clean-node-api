@@ -1,0 +1,4 @@
+
+> clean-node-api@1.0.0 test /home/kim/Desktop/learning/backend/typescript/clean-node-api
+> jest --passWithNoTests --silent --noStackTrace --runInBand
+
